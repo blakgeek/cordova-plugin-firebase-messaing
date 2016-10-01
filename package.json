@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-firebase-messaging",
+  "version": "1.0.0",
+  "description": "Adds native support for Firebase's realtime messaging to Cordova/Phonegap apps.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blakgeek/cordova-plugin-firebase-messaging.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "firebase",
+    "cloud", "messaging", "push", "notifications", "fcm"
+
+  ],
+  "author": "Carlos \"blakgeek\" Lawton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakgeek/cordova-plugin-firebase-messaging/issues"
+  },
+  "homepage": "https://github.com/blakgeek/cordova-plugin-firebase-messaging"
+}
